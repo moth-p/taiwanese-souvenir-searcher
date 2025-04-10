@@ -1,4 +1,5 @@
-# Taiwanese Souvenir Search & Favorite Website  
+# Taiwanese Souvenir Search & Favorite Website
+
 台灣農村優良伴手禮查詢與收藏網站
 
 A souvenir search and bookmarking site powered by **React 19**, allowing users to browse, search, and favorite rural quality gift items in Taiwan. Bookmarks are stored via `localStorage`, preserving favorites across sessions.
@@ -7,15 +8,16 @@ A souvenir search and bookmarking site powered by **React 19**, allowing users t
 
 ---
 
-## 🖼️ 網頁畫面預覽
+## 網頁畫面預覽
 
 <div align="center">
-  <img src="./public/display_img.png" alt="網頁展示圖" width="50%" />
+  <img src="./public/display_img.png" alt="首頁畫面" width="45%" style="margin-right: 10px;" />
+  <img src="./public/display_img2.png" alt="收藏畫面" width="45%" />
 </div>
 
 ---
 
-##  Features 功能特色
+## Features 功能特色
 
 - 關鍵字搜尋
 - 瀏覽伴手禮詳細資訊（圖片、描述、出品單位等）
@@ -27,15 +29,15 @@ A souvenir search and bookmarking site powered by **React 19**, allowing users t
 
 ## Tech Stack 使用技術
 
-| 類別       | 技術名稱                        |
-|------------|---------------------------------|
-| 前端框架   | React 19                        |
-| 路由管理   | React Router v7（使用 HashRouter） |
-| 狀態管理   | React Hooks（useState, useEffect...） |
-| API 串接   | Axios                           |
-| 樣式工具   | Tailwind CSS                    |
-| 打包工具   | Vite                            |
-| 程式檢查   | ESLint                          |
+| 類別     | 技術名稱                              |
+| -------- | ------------------------------------- |
+| 前端框架 | React 19                              |
+| 路由管理 | React Router v7（使用 HashRouter）    |
+| 狀態管理 | React Hooks（useState, useEffect...） |
+| API 串接 | Axios                                 |
+| 樣式工具 | Tailwind CSS                          |
+| 打包工具 | Vite                                  |
+| 程式檢查 | ESLint                                |
 
 ---
 
