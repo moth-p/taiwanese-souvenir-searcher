@@ -10,9 +10,8 @@ A souvenir search and bookmarking site powered by **React 19**, allowing users t
 
 ## 網頁畫面預覽
 
-<div align="center">
-  <img src="./public/display_img.png" alt="首頁畫面" width="45%" style="margin-right: 10px;" />
-  <img src="./public/display_img2.png" alt="收藏畫面" width="45%" />
+<div>
+  <img src="./public/display_img.png" alt="首頁畫面" width="45%" />
 </div>
 
 ---
